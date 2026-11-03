@@ -6,12 +6,12 @@
 Use Lexicon providers in OctoDNS
 
 ## Introduction
-octodns_lexicon is a provider for OctoDNS which by acting as a wrapper, it lets you to use [Lexion](https://github.com/AnalogJ/lexicon) providers in [OctoDNS](https://github.com/github/octodns) and thus you can manage your DNS records as code across even more providers.
+octodns_lexicon is a provider for OctoDNS which by acting as a wrapper, it lets you to use [Lexicon](https://github.com/AnalogJ/lexicon) providers in [OctoDNS](https://github.com/github/octodns) and thus you can manage your DNS records as code across even more providers.
 
 ## Getting started
 ### Installation
 
-    pip install git+https://github.com/cdswambo/octodns-lexicon-namecheap-support
+    pip install git+https://github.com/cdswambo/octodns-lexicon-fixed
     
 ### Extra dependencies
 
